@@ -1,35 +1,18 @@
- Hi there 👋
-
-<!--
-**Rohitha-Modepalli/Rohitha-Modepalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-## <p align="center">🚀 Tech Journey</p>
-
 <p align="center">
+  <!-- Learner -->
+  <img src="https://media.giphy.com/media/l0MYGBkQbkq7T9MQU/giphy.gif" width="80" title="Learner" /> ➝ 
   <!-- Python -->
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="60" />
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="80" title="Python" /> ➝ 
   <!-- HTML -->
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="60" />
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="80" title="HTML" /> ➝ 
   <!-- CSS -->
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="60" />
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="80" title="CSS" /> ➝ 
   <!-- JavaScript -->
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="60" />
-</p>
-
-<p align="center">
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="80" title="JavaScript" /> ➝ 
   <!-- Frontend -->
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" title="Frontend" /> ➝ 
   <!-- Backend -->
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100" title="Backend" /> ➝ 
   <!-- Fullstack -->
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100" title="Fullstack Developer" />
 </p>
-
----
-
-## <p align="center">📚 Always Learning</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250" />
-</p>
-
