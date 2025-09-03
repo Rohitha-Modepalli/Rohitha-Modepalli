@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Learner -->
-  <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="80" title="Learner" /> ➝ 
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="80" title="Learner" /> ➝ 
   <!-- Python -->
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="80" title="Python" /> ➝ 
   <!-- HTML -->
