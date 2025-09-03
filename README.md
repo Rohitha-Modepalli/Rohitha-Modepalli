@@ -1,18 +1,23 @@
 <p align="center">
   <!-- Learner -->
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="80" title="Learner" /> ➝ 
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="120" title="Learner" /> ➝ 
   <!-- Python -->
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="80" title="Python" /> ➝ 
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="120" title="Python" /> ➝ 
   <!-- HTML -->
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="80" title="HTML" /> ➝ 
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="120" title="HTML" /> ➝ 
   <!-- CSS -->
-  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="80" title="CSS" /> ➝ 
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="120" title="CSS" /> ➝ 
   <!-- JavaScript -->
-  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="80" title="JavaScript" /> ➝ 
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="120" title="JavaScript" />
+</p>
+
+<p align="center">
   <!-- Frontend -->
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" title="Frontend" /> ➝ 
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150" title="Frontend" /> ➝ 
   <!-- Backend -->
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="100" title="Backend" /> ➝ 
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="150" title="Backend" /> ➝ 
   <!-- Fullstack -->
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100" title="Fullstack Developer" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="150" title="Fullstack Developer" /> ➝ 
+  <!-- Tools -->
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="120" title="Git & Tools" />
 </p>
