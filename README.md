@@ -5,7 +5,7 @@
 <h3 align="center">💻 Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JS-blue" />
-  <img src="https://img.shields.io/badge/Backend-Django%20%7C%20Node-green" />
-  <img src="https://img.shields.io/badge/Database-SQL%20%7C%20" />
+  <img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JavaScript-blue" />
+  <img src="https://img.shields.io/badge/Backend-Python%20%7C%20Django-green" />
+  <img src="https://img.shields.io/badge/Database-SQL-orange" />
 </p>
